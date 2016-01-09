@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all"
     },
-    Nod32Yaghi= {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    Nod32Yaghi= {158990680},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
